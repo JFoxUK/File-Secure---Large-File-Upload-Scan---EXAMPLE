@@ -21,7 +21,7 @@ To install the application, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone git clone https://github.com/Res418/File-Secure-Large-File-Upload-Scan_EXAMPLE.git
+   git clone https://github.com/Res418/File-Secure-Large-File-Upload-Scan_EXAMPLE.git
    ```
 2. Navigate to the project directory:
    ```bash
